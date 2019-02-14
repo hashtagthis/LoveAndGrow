@@ -679,7 +679,7 @@ section
 .hero_slider_container
 {
 	width: 100%;
-	height: 840px;
+	height: 550px;
 	margin-top: 110px;
 }
 .main_slider_shapes
@@ -711,13 +711,19 @@ section
 {
 	width: 610px;
 	height: 100%;
-	margin-top: 240px;
+	margin-top: 160px;
 }
 .main_slider_content h1
 {
 	font-weight: 300;
 	line-height: 1.15;
 	color: #FFFFFF;
+}
+.main_slider_content h2
+{
+	color: white;
+	font-weight: bold;
+	margin-bottom: 0;
 }
 .main_slider_content h1 span
 {
