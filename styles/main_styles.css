@@ -395,7 +395,7 @@ section
 .nav_items li
 {
 	display: inline-block;
-	margin-left: 35px;
+	margin-left: 0;
 	height: 100%;
 }
 .nav_items li a
@@ -404,7 +404,7 @@ section
 	font-weight: 600;
 	text-transform: uppercase;
 	color: #0b1033;
-	letter-spacing: 3.5px;
+	letter-spacing: 1px;
 	height: 100%;
 	display: -webkit-box;
 	display: -moz-box;

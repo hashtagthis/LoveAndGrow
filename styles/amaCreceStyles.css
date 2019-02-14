@@ -18,3 +18,7 @@
 .outstanding__menu ul li:last-child {
     margin-right: 0;
 }
+
+.features_item img {
+    width: 100%;
+}
