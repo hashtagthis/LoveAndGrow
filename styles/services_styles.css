@@ -768,7 +768,7 @@ section
 }
 .home_content
 {
-	margin-top: 154px;
+	margin-top: 114px;
 }
 .home_content h1
 {
@@ -778,12 +778,10 @@ section
 }
 .home_content span
 {
-	font-size: 12px;
+	font-size: 13px;
 	font-weight: 600;
+	line-height: 13px;
 	color: #FFFFFF;
-	letter-spacing: 1em;
-	text-transform: uppercase;
-	padding-left: 3px;
 }
 
 /*********************************
