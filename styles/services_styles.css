@@ -850,10 +850,7 @@ section
 }
 .zeta_card
 {
-	padding-top: 208px;
-	padding-bottom: 195px;
-	padding-left: 134px;
-	padding-right: 100px;
+	padding: 50px 80px;
 }
 .zeta_card_content
 {
@@ -862,6 +859,7 @@ section
 .zeta_card_content h2
 {
 	font-size: 24px;
+	font-weight: bold;
 	letter-spacing: 0.2em;
 	color: #FFFFFF;
 	text-transform: uppercase;
