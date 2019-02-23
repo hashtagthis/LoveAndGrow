@@ -102,7 +102,7 @@ p a:hover::after
 ::selection
 {
 	background: #fde0db;
-	color: #ff4200;
+	color: #1C9157;
 }
 p::selection
 {
@@ -241,7 +241,7 @@ section
 {
 	width: 187px;
 	height: 66px;
-	background: #ff4200;
+	background: #1C9157;
 	overflow: hidden;
 }
 .line_button
@@ -349,12 +349,12 @@ section
 	position: absolute;
 	top: 0;
 	left: -5px;
-	color: #ff4200;
+	color: #1C9157;
 	z-index: -1;
 }
 .logo span:last-of-type
 {
-	color: #ff4200;
+	color: #1C9157;
 }
 
 /*********************************
@@ -375,7 +375,7 @@ section
 .nav_items li
 {
 	display: inline-block;
-	margin-left: 35px;
+	margin-left: 0;
 	height: 100%;
 }
 .nav_items li a
@@ -384,7 +384,7 @@ section
 	font-weight: 600;
 	text-transform: uppercase;
 	color: #0b1033;
-	letter-spacing: 3.5px;
+	letter-spacing: 1px;
 	height: 100%;
 	display: -webkit-box;
 	display: -moz-box;
@@ -399,7 +399,7 @@ section
 }
 .nav_items li.active
 {
-	background: #ff4200;
+	background: #1C9157;
 }
 .nav_items li.active a
 {
@@ -407,7 +407,7 @@ section
 }
 .nav_items li:hover
 {
-	background: #ff4200;
+	background: #1C9157;
 }
 .nav_items li:hover a
 {
@@ -595,7 +595,7 @@ section
 	position: absolute;
 	top: -1px;
 	left: -5px;
-	color: #ff4200;
+	color: #1C9157;
 	z-index: -1;
 }
 .fs_menu_list li a > span::after
@@ -659,7 +659,7 @@ section
 	right: 0px;
 	width: auto;
 	height: 74px;
-	background: #ff4200;
+	background: #1C9157;
 	z-index: 11;
 	padding-right: 38px;
 	padding-left: 45px;
@@ -912,7 +912,7 @@ section
 	font-size: 12px;
 	font-weight: 600;
 	letter-spacing: 0.2em;
-	color: #ff4200;
+	color: #1C9157;
 	text-transform: uppercase;
 	margin-top: 11px;
 	-webkit-transition: all 200ms ease;
@@ -1031,4 +1031,32 @@ section
 .cr p
 {
 	margin-bottom: 0px;
+}
+
+/*  */
+/* Estilos propios */
+/*  */
+
+#requisitos h5 {
+	font-size: 30px;
+	margin: 0;
+	font-weight: bold;
+	color: #1C9157;
+}
+
+#requisitos ul {
+	list-style: circle;
+	padding-left: 15px;
+	font-weight: bold;
+}
+
+#requisitos p {
+	margin-top: 15px;
+	margin-bottom: 0;
+	line-height: initial;
+	text-align: justify;
+}
+
+.programaBecasCards .zeta_card {
+	padding: 20px;
 }

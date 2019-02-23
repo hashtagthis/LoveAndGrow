@@ -742,7 +742,9 @@ section
 	margin-top: 42px;
 	margin-left: 5px;
 }
-
+.slide_two h2, .slide_two h1, .slide_two p {
+	color: #1C9157;
+}
 /*********************************
 4.1 Main Slider Dots
 *********************************/
