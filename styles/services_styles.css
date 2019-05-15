@@ -1060,3 +1060,78 @@ section
 .programaBecasCards .zeta_card {
 	padding: 20px;
 }
+
+.instituciones__container {
+	padding: 50px 0;
+	text-align: center;
+}
+
+.instituciones__container h2 {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.instituciones__container p {
+	margin-top: 5px;
+}
+
+/* Modalbox Atención */
+
+#atencion p {
+	margin-top: 0;
+}
+
+#atencion ul {
+	list-style: inherit;
+	padding-left: 15px;
+}
+
+#atencion ul li {
+	margin-bottom: 5px;
+}
+
+#atencion h5 {
+	font-size: 30px;
+	margin: 0;
+	font-weight: bold;
+	color: #1C9157;
+}
+
+#buscarCertificados {
+	cursor: pointer;
+}
+
+.consulta__certificados {
+	padding: 50px 0;
+}
+
+.consulta__certificados h2 {
+	font-size: 25px;
+	text-align: center;
+}
+
+.respuesta__container {
+	margin-top: 40px;
+}
+
+.respuesta__container h3 {
+	font-weight: bold;
+	text-align: center;
+}
+
+.respuesta__container p {
+	font-size: 15px;
+	margin-bottom: 0;
+	text-align: center;
+}
+
+.noEncontrado {
+	margin-top: 110px;
+	padding: 80px 0;
+	height: 65vh;
+}
+
+.noEncontrado h2 {
+	font-size: 40px;
+	font-weight: bold;
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "institucion": "CACSI",
+        "curso": "ADMINISTRACIÓN EN SEGURIDAD INTEGRAL",
+        "dni": "15448006",
+        "nombres": "ALVINES SOSA, LUIS JAVIER",
+        "lugar": "LIMA",
+        "estado": "En Base"
+    },
+    {
+        "institucion": "UNMSM",
+        "curso": "SEGURIDAD MINERA",
+        "dni": "41644903",
+        "nombres": "PEÑA ABAD, ALEXANDER MARTIN",
+        "lugar": "LIMA",
+        "estado": "En Base"
+    },
+    {
+        "institucion": "UNMSM",
+        "curso": "SEGURIDAD INDUSTRIAL",
+        "dni": "20111067",
+        "nombres": "TUNCAR MENDOZA, ALCIBIADES",
+        "lugar": "LIMA",
+        "estado": "En Base"
+    },
+    {
+        "institucion": "RINSA",
+        "curso": "LIDERAZGO ESTRATÉGICO PARA EL DESARROLLO",
+        "dni": "16751165",
+        "nombres": "ZEÑA CHANDUVI, CARLOS ALBERTO",
+        "lugar": "LAMBAYEQUE",
+        "estado": "En Base"
+    },
+    {
+        "institucion": "CACSI",
+        "curso": "SUPERVISIÓN Y MANEJO EFECTIVO DE CENTRO DE CONTROL",
+        "dni": "25462921",
+        "nombres": "SANCHEZ TANGHERLINI, EDUARDO",
+        "lugar": "LIMA",
+        "estado": "En Base"
+    },
+    {
+        "institucion": "CACSI",
+        "curso": "SUPERVISIÓN Y MANEJO EFECTIVO DE CENTRO DE CONTROL",
+        "dni": "27995470",
+        "nombres": "CRUZ RODRIGUEZ, NILTON CESAR",
+        "lugar": "",
+        "estado": "En Base"
+    },
+    {
+        "institucion": "INTELSEGUR",
+        "curso": "TÉCNICO EN OPERACIÓN Y MONITOREO CENTRO DE CONTROL SISTEMA VIDEO CCTV - IP",
+        "dni": "03483521",
+        "nombres": "QUINDE CASTILLO, JOHNNY WALTER",
+        "lugar": "PIURA",
+        "estado": "Entregado"
+    },
+    {
+        "institucion": "EHSQ GROUP",
+        "curso": "EQUIPOS DE PROTECCIÓN PERSONAL",
+        "dni": "29666055",
+        "nombres": "FLORES LUQUE, JAVIER",
+        "lugar": "",
+        "estado": "En Base"
+    }
+]

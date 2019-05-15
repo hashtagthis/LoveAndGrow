@@ -88,21 +88,28 @@
 				<div class="row">
 					<div class="col-lg-6">
 						<div class="home_content">
-							<h1>Instituciones</h1>
-							<span>Revisa acá todas las instituciones que puedan interesarse.</span>
+							<h1>Certificados</h1>
+							<span>Revisa acá si contamos con tu certificado para ser entregado.</span>
 						</div>
 					</div>
 				</div>
 			</div>
+
 		</div>
 
-		<section class="instituciones__container">
+		<!-- Body -->
+		<section class="consulta__certificados">
 			<div class="container">
-				<div class="row justify-content-md-center">
-					<div class="col-lg-12">
-						<h2>Contamos con una lista de Instituciones para que puedas inscribirte</h2>
-						<p>Podrás encontrar el nombre de la institución, persona de contacto, correo y celular.</p>
-						<a target="_blank" rel="noreferrer noopener" href="programa_financiamiento.pdf" class="btn btn-success">Revisar Instituciones</a>
+				<div class="row">
+					<div class="justify-content-md-center col-lg-12">
+						<h2>Revisa si contamos con tu certificado</h2>
+						<div class="d-flex flex-row justify-content-md-center">
+							<input type="text" id="numeroDocumentoCertificado" maxlength="8">
+							<button class="btn btn-success" id="buscarCertificados">Buscar</button>
+						</div>
+					</div>
+					<div class="justify-content-md-center col-lg-12">
+						<div class="respuesta__container" id="respuestaBD"></div>
 					</div>
 				</div>
 			</div>
@@ -149,6 +156,7 @@
 	<script src="../../plugins/OwlCarousel2-2.2.1/owl.carousel.js"></script>
 	<script src="../../plugins/easing/easing.js"></script>
 	<script src="../../js/services_custom.js"></script>
+	<script src="../../js/functions.js"></script>
 </body>
 
 </html>
