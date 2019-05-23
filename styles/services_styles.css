@@ -1099,6 +1099,7 @@ section
 
 #buscarCertificados {
 	cursor: pointer;
+	margin-left: 10px;
 }
 
 .consulta__certificados {
@@ -1134,4 +1135,8 @@ section
 .noEncontrado h2 {
 	font-size: 40px;
 	font-weight: bold;
+}
+
+.proximamente h2 {
+	color: #1C9157;
 }
